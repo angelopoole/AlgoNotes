@@ -1,15 +1,16 @@
-Objectives!
+# Objectives!
 
 - Define what an algo is
-- devise a plan to solve algorithms
-- compare and constrast problem solving patterns including frequency counters, two pointer problems and divide and conqer
+- Devise a plan to solve algorithms
+- Compare and constrast problem solving patterns including frequency counters, two pointer problems and divide and conqer
 
-This is made up of two key aspects:
+_This is made up of two key aspects:_
 
 1. devise a pattern for solving problems
 2. master common problem solving problems
 
 **problem solving ->**
+Section 4 will go over these concepts:
 
 - understand the problem
 - explore concrete examples
