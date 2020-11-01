@@ -9,3 +9,5 @@ Q: Write a function which takes in a string and erurns counts of each character 
 
 charCount("aaaa"); // {a:4}
 charCount("Hello") // {h:1, e:1, l:2, o:1};
+
+[Example of how to solve this question above](s4-codeExamples/2-Charcount.js)
