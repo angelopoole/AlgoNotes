@@ -7,6 +7,9 @@
 
 Q: Write a function which takes in a string and erurns counts of each character in the string.
 
+- [x] Start with simple examples:
+
+_function(input); // result that we're looking for_
 charCount("aaaa"); // {a:4}
 charCount("Hello") // {h:1, e:1, l:2, o:1};
 
