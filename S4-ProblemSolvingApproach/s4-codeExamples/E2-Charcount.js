@@ -6,6 +6,7 @@ let charCounter = string => {
 	for (letter of splitString) {
 		freqCounter[letter] ? freqCounter[letter]++ : (freqCounter[letter] = 1);
 	}
+	return freqCounter;
 };
 
 console.log(charCounter('hello'));
